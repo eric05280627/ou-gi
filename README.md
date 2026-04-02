@@ -7,8 +7,8 @@ If you do not find my humble thoughts and crude and difficult-to-read language o
 # ou-gi《橫議》
 * [觀天第一](01.觀天第一.txt)
 * [知性第二](02.知性第二.txt)
-* [知性第二](03.知性第二.txt)
-* [知性第二](04.知性第二.txt)
+* [仁智第三](03.仁智第三.txt)
+* [立命第四](04.立命第四.txt)
 * [義禮第五](05.義禮第五.txt)
 * [民治第六](06.民治第六.txt)
 * [三政第七](07.三政第七.txt)
